@@ -127,4 +127,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para 
 
 ---
 
-Feito com 💜 by Rocketseat :wave: [Entre no meu Linkedin!](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)
+Feito com 💜 by Anderson :wave: [Entre no meu Linkedin!](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)
